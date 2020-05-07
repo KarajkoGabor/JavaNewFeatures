@@ -1,0 +1,7 @@
+{
+  "testField": "testValue",
+  "differentField": "differentValue",
+  "someOther": {
+    "innerField": 1
+  }
+}
