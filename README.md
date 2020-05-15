@@ -15,5 +15,9 @@ Java 14 features
     - A new yield statement to yield a value that becomes the value of the enclosing switch expression
     - Multiple constants per case that are separated by commas
     - Complex code to the right of the case .. ->
+  * Exhaustive switch-case tried out
   * More narrative NPE log message  
+  * Preview features:
+    - Record
+    - instance of pattern
   
