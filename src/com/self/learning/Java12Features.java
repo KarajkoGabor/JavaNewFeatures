@@ -116,7 +116,7 @@ public class Java12Features {
         out.println(exampleString.indent(0));
 
         out.println("Bigger than 0 Indent");
-        out.println(exampleString.indent(5));
+        out.println(exampleString.indent(15));
 
         out.println("Lower than 0 Indent");
         out.println(exampleString.indent(-5));

@@ -21,7 +21,13 @@ public class Main {
 
         Stream.of("Mon", "Sat", "nothing", "").forEach(java14Features::swtichDemo);
 
+        Stream.of(ExampleEnums.ONE, ExampleEnums.SOME_OTHER_SOMETHING).forEach(java14Features::swtichExhaustiveDemo);
+
         java14Features.nPEMessageDemo();
+
+        java14Features.recordDemo();
+
+        java14Features.instanceOfDemo();
 
     }
 }
